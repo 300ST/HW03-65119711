@@ -1,0 +1,12 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "fullname": "Peerapat Pimloy",
+        "email": "peerapatpimloy@gmail.com",
+        "password": "1234",
+        "gender": "Male"
+      }
+    ]
+  }
+  
